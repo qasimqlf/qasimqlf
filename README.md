@@ -5,13 +5,19 @@
 
 <h4>Welcome to my page! </br> I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=8) ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qasimqlf)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=10) 
 
 <h3>Things I code with</h3>
 <p>
 	
   <img alt="Apache Groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" />
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
