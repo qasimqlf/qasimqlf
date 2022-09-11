@@ -5,7 +5,7 @@
 
 <h4>Welcome to my page! </br> I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
 
-<p align='center'> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical) </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&style=center) 
 
 <h3>Things I code with</h3>
 <p>
