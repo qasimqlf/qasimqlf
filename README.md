@@ -5,9 +5,8 @@
 
 <h4>Welcome to my page! </br> I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=8)
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qasimqlf)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=8) ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qasimqlf)
 
 <h3>Things I code with</h3>
 <p>
