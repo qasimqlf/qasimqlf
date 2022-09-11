@@ -14,7 +14,7 @@
 
 ------------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=default&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=5) 
 
