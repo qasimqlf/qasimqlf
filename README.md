@@ -5,12 +5,9 @@
 
 <h4>Welcome to my page! </br> I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=8)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=8)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qasimqlf)
-
 
 <h3>Things I code with</h3>
 <p>
@@ -24,14 +21,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 
 <h3>Open source projects</h3>
 <table>
