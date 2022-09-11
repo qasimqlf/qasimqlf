@@ -3,9 +3,7 @@
 </h1>
 
 
-<h4>Welcome to my page! </br> I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </4>
-![General badge](https://shields.io/)
-
+<h4>Welcome to my page! </br> I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
