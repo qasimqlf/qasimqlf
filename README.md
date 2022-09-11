@@ -7,6 +7,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=radical&show_icons=true) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=8)
+
 <h3>Things I code with</h3>
 <p>
 	
