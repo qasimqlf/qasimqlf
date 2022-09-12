@@ -20,9 +20,7 @@
 
 ------------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=default&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=5) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=default&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=3) 
 
 <h3>Things I code with</h3>
 <p>
