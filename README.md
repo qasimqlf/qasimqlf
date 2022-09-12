@@ -11,6 +11,11 @@
 <p align="center"> 
 	<a href="https://github.com/qasimqlf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/qasimqlf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/qasimqlf" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@qasimqlf" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://skype.com/qasimqlf" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
 	</a>
+
+------------
+<p align="center"> 
+	<a href="https://twitter.com/qasimqlf?tab=followers" target="_blank"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/qasimqlf?style=social" /></a> <a href="https://github.com/qasimqlf?tab=followers" target="_blank"><img alt="Github Followers" src="https://img.shields.io/github/followers/qasimqlf?style=social" />
+	</a>
 </p>
 
 ------------
