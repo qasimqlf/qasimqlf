@@ -2,6 +2,7 @@
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 </h1>
 
+<img alr="header" src="Banner.png" />
 
 <h4>I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
 
