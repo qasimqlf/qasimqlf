@@ -2,11 +2,11 @@
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Qasim, Nice to see you.
 </h1>
 
-<img alr="header" src="Banner.png" />
+<img alr="header" src="images/Banner.png" />
 
-<h4>Detection Engineer and Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
+<h3 align="center">I'm a detection engineer and developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about Web/Software Development, and recently interested also in the CyberSecurity, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>.</h3>
 
-<img align="right" src="coding from home.gif" width="300"/> 
+<img align="right" src="images/coding from home.gif" width="300"/> 
 
 <div >
 
