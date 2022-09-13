@@ -1,24 +1,31 @@
 <h1 align="center">
-	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Qasim, Nice to see you.
 </h1>
 
 <img alr="header" src="Banner.png" />
 
-<h4>I'm Qasim, Detection Engineer and Fullstack developer, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
+<h4>Detection Engineer and Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, currently living in <img src="https://flagcdn.com/16x12/pk.png" width="13"/> <b>Kasur, Pakistan</b>. </h4>
 
-------------
+<img align="right" src="coding from home.gif" width="300"/> 
 
-<p align="center"> 
-	<a href="https://github.com/qasimqlf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/qasimqlf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/qasimqlf" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@qasimqlf" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://skype.com/qasimqlf" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
-	</a>
+<div >
 
-------------
-<p align="center"> 
-	<a href="https://twitter.com/qasimqlf?tab=followers" target="_blank"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/qasimqlf?style=social" /></a> <a href="https://github.com/qasimqlf?tab=followers" target="_blank"><img alt="Github Followers" src="https://img.shields.io/github/followers/qasimqlf?style=social" />
-	</a>
-</p>
+<hr > 
+<a href="https://github.com/qasimqlf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/qasimqlf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/qasimqlf" target="_blank"><img width="100" alt="LinkedIn" src="https://img.shields.io/badge/-qasimqlf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qasimqlf/" /></a> <a href="https://medium.com/@qasimqlf" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://skype.com/qasimqlf" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />  </a> 
 
-------------
+<hr>
+<a href="https://twitter.com/intent/follow?screen_name=qasimqlf" target="_blank"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/qasimqlf?label=Follow&style=social" /></a> <a href="https://github.com/qasimqlf?tab=followers" target="_blank"><img alt="Github Followers" src="https://img.shields.io/github/followers/qasimqlf?style=social&label=Follow" /> </a> <a href="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" target="_blank"><img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" /></a>  <a href="https://qasimqlf.wordpress.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://qasimqlf.wordpress.com/" /></a>
+
+</div>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=default&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=3) 
 
