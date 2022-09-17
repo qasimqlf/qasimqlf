@@ -8,30 +8,118 @@
 
 <img align="right" src="images/coding from home.gif" width="300"/> 
 
-<div >
-
 <hr > 
-<a href="https://github.com/qasimqlf" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/qasimqlf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/qasimqlf" target="_blank"><img width="100" alt="LinkedIn" src="https://img.shields.io/badge/-qasimqlf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qasimqlf/" /></a> <a href="https://medium.com/@qasimqlf" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://skype.com/qasimqlf" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />  </a> 
+
+<div id="badges" align="center">
+
+<a href="https://twitter.com/qasimqlf">
+	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="https://youtube.com/qasimqlf">
+	<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a>
+<a href="https://skype.com/qasimqlf">
+	<img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+</a>
+<a href="https://github.com/qasimqlf">
+	<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/qasimqlf">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://qasimqlf.medium.com">
+	<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+</a>
+<a href="https://facebook.com/qasimqlf">
+	<img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://instagram.com/qasimqlf">
+	<img src="https://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+<a href="https://TikTok.com/qasimqlf">
+	<img src="https://img.shields.io/badge/TikTok-grey?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+</a>
+<a href="https://qasimqlf.wordpress.com">
+	<img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=Wordpress&logoColor=white" alt="Wordpress Badge"/>
+</a>
 
 <hr>
-<a href="https://twitter.com/intent/follow?screen_name=qasimqlf" target="_blank"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/qasimqlf?label=Follow&style=social" /></a> <a href="https://github.com/qasimqlf?tab=followers" target="_blank"><img alt="Github Followers" src="https://img.shields.io/github/followers/qasimqlf?style=social&label=Follow" /> </a> <a href="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" target="_blank"><img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" /></a>  <a href="https://qasimqlf.wordpress.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://qasimqlf.wordpress.com/" /></a>
+
+<a href="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" target="_blank">
+	<img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" />
+</a>  
+<a href="https://github.com/qasimqlf?tab=followers" target="_blank">
+	<img alt="Github Followers" src="https://img.shields.io/github/followers/qasimqlf?style=social&label=Follow" /> 
+</a> 
+<a href="https://twitter.com/intent/follow?screen_name=qasimqlf" target="_blank">
+	<img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/qasimqlf?label=Follow&style=social" />
+</a> 
 
 </div>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qasimqlf&theme=default&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&langs_count=3) 
+### :man_technologist: About Me :
 
-<h3>Things I code with</h3>
+- :telescope: I’m working as a Detection Engineer and learning frontend and backend for building web applications.
+
+- :seedling: Exploring Cyber Security.
+
+- :zap: In my free time, ....
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-QasimQlf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qasimqlf)
+
+<hr>
+<details open>
+ <summary> 📊 <h4>GitHub stats</h4>: </summary>
+
+<p align = "center">
+    <img src="images/PersonStanding.png" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=qasimqlf&show_icons=true&count_private=true&&line_height=25" alt="qasimqlf">
+</p>
+
+</details>
+<hr>
+### :hammer_and_wrench: Languages and Tools :
+ 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="CHROME" alt="CHROME " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp"  alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcoret" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github"  alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy"  alt="groovy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
+ 
+</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qasimqlf&theme=dark&background=000000)](https://github.com/qasimqlf) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&layout=compact&theme=vision-friendly-dark)](https://github.com/qasimqlf)
+
+### :writing_hand: Blog Posts :
+
+## Loading...
+<!--
 <p>
-	
   <img alt="Apache Groovy" src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -47,7 +135,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<!--
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -86,7 +174,4 @@
 -->
 
 ------------
-------------
-------------
-
-
+<p align="center">Qasim Qlf - Copyright @ 2022 - All rights reserved </p>
