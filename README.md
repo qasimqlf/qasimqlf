@@ -175,5 +175,8 @@
 </table>
 -->
 
+<!-- HTML -->
+<div align="center"> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </div>
+
 ------------
 <p align="center">Qasim Qlf - Copyright @ 2022 - All rights reserved </p>
