@@ -66,10 +66,9 @@
 - :zap: In my free time, ....
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-QasimQlf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qasimqlf)
-
 <hr>
 <details open>
- <summary> 📊 <h4>GitHub stats</h4>: </summary>
+ <summary> 📊 <b>GitHub stats</b>: </summary>
 
 <p align = "center">
     <img src="images/PersonStanding.png" height="250" />
@@ -78,6 +77,7 @@
 
 </details>
 <hr>
+
 ### :hammer_and_wrench: Languages and Tools :
  
 <div>
@@ -110,10 +110,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
  
 </div>
+<hr>
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qasimqlf&theme=dark&background=000000)](https://github.com/qasimqlf) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qasimqlf&layout=compact&theme=vision-friendly-dark)](https://github.com/qasimqlf)
+<hr>
 
 ### :writing_hand: Blog Posts :
 
