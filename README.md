@@ -45,6 +45,9 @@
 
 <hr>
 
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=qasimqlf)
+
 <a href="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" target="_blank">
 	<img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=qasimqlf.qasimqlf" />
 </a>  
