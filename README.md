@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-	<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" alt="cyber banner">
+	<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" height="400" alt="cyber banner">
 </p>
 
 <h3 align="center">
@@ -69,4 +69,4 @@
 
 ### 🧠 Current Focus
 ```text
-Threat Hunting | Sigma Rules | EDR Detection | Log Analysis | C2 Detection | SOC Engineering
+Threat Hunting | Web Apps | Secure Products | Sigma Rules | EDR Detection | Log Analysis | C2 Detection | SOC Engineering
