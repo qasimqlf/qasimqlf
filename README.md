@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/3o7TKr3nzbh5WgCFxe/giphy.gif" width="320" alt="cyber gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="cyber gif"/>
 
 ### 🧠 About Me
 
